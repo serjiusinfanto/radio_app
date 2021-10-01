@@ -1,0 +1,117 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "92.7",
+               "tagline": "Suno Sunao, Life Banao!",
+               "color": "0xffa11431",
+               "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+               "url": "https://radioindia.net/radio/hungama90/icecast.audio",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+               "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5df4c18876369.562d0d4bd94cf.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 1
+           },
+           {
+               "id": 2,
+               "name": "98.3",
+               "tagline": "Gaano Ka Sweet Dish",
+               "color": "0xff221420",
+               "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+               "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+               "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+               "image": "https://static.toiimg.com/thumb/msid-72350288,width-800,height-600,resizemode-75,imgsize-302210,pt-32,y_pad-40/72350288.jpg",
+               "lang": "Hindi",
+               "disliked": false,
+               "category": "rock",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "102",
+               "tagline": "Play On!",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "https://radioindia.net/radio/hungamadilse/icecast.audio",
+               "icon": "https://i.pinimg.com/564x/97/12/34/9712340ee47b6b06286f534e050f9d29.jpg",
+               "image": "https://i.pinimg.com/564x/97/12/34/9712340ee47b6b06286f534e050f9d29.jpg",
+               "lang": "Hindi",
+               "disliked": false,
+               "category": "hip-hop",
+               "order": 3
+           },
+           {
+               "id": 4,
+               "name": "104",
+               "tagline": "Calm Yourselves",
+               "color": "0xff066c53",
+               "desc": "",
+               "url": "https://rfcmedia.streamguys1.com/relaxationpremium.mp3",
+               "icon": "https://radiosindia.com/images/foxfm.jpg",
+               "image": "https://thumbs.dreamstime.com/z/relax-24772624.jpg",
+               "lang": "English",
+               "category": "Soothing",
+               "disliked": false,
+               "order": 4
+           },
+           {
+               "id": 5,
+               "name": "95",
+               "tagline": "Just Music",
+               "color": "0xff0d487d",
+               "desc": "",
+               "url": "https://revolutionradio.ru:8443/live.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+               "image": "https://previews.123rf.com/images/taawon/taawon1912/taawon191200831/141523382-music-notes-logo-creative-abstract-key-note-symbol-instrumental-template.jpg",
+               "lang": "English",
+               "category": "EDM",
+               "disliked": false,
+               "order": 5
+           },
+           {
+               "id": 6,
+               "name": "94",
+               "tagline": "Know what's happening in the world",
+               "color": "0xff27383e",
+               "desc": "",
+               "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+               "image": "https://images.unsplash.com/photo-1557428894-56bcc97113fe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80",
+               "lang": "English",
+               "category": "News",
+               "disliked": false,
+               "order": 6
+           },
+           {
+               "id": 7,
+               "name": "93",
+               "tagline": "Live Laugh Love",
+               "color": "0xffa06a37",
+               "desc": "The brain responds to music the same way it responds to something that you eat.",
+               "url": "https://18363.live.streamtheworld.com/977_COMEDY_SC",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+               "image": "https://static.wikia.nocookie.net/mrbean/images/4/4b/Mr_beans_holiday_ver2.jpg/revision/latest/scale-to-width-down/350?cb=20181130033425",
+               "lang": "Hindi",
+               "category": "comedy",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "107",
+               "tagline": "Rocking Retro Hits",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+               "image": "https://i.pinimg.com/originals/7f/f6/13/7ff613ed815f1eb56a90794ec64eecfe.jpg",
+               "lang": "Hindi",
+               "category": "classic",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+}
+   
